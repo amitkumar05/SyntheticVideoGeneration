@@ -1,0 +1,39 @@
+
+joey SPEAKING 2.96s
+
+chandler SPEAKING 6.67s
+
+ross SPEAKING 10.37s
+
+joey SPEAKING 3.33s
+
+ross SPEAKING 12.22s
+
+joey SPEAKING 3.70s
+
+chandler SPEAKING 4.07s
+
+ross SPEAKING 19.63s
+
+chandler SPEAKING 6.67s
+
+
+phoebe SPEAKING 3.33s
+
+chandler SPEAKING 0.74s
+
+joey SPEAKING 2.22s
+
+rachel SPEAKING 2.59s
+
+chandler SPEAKING 2.96s
+
+ross SPEAKING 5.56s
+
+monica SPEAKING 10.74s
+
+ross SPEAKING 3.33s
+
+chandler SPEAKING 1.85s
+
+phoebe SPEAKING 3.33s

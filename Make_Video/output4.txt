@@ -1,0 +1,101 @@
+007171.jpeg
+49
+[10115, 23405, 22772, 18876, 5091, 3332, 18256, 10079, 22634, 17868, 4987, 11091, 23441, 18328, 5219, 18292, 21307, 18364, 17928, 10260, 21133, 29916, 7249, 10758, 16440, 10525, 18220, 5255, 21343, 23881, 10007, 10489, 18549, 22562, 22598, 5055, 17832, 11180, 29395, 3296, 23845, 16403, 23632, 18706, 11127, 21763, 18912, 18513, 18948]
+('place_prob= ', 0, 18876, 0.96052415132125768)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/000_18876_video.mp4
+('place_prob= ', 1, 18513, 0.88399122363884541)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/001_18513_video.mp4
+('place_prob= ', 2, 16440, 0.86408621168398891)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/002_16440_video.mp4
+('place_prob= ', 3, 17832, 0.83202102202297323)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/003_17832_video.mp4
+('place_prob= ', 4, 18549, 0.79714929961488501)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/004_18549_video.mp4
+('place_prob= ', 5, 18706, 0.76991000779982588)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/005_18706_video.mp4
+('place_prob= ', 6, 18912, 0.75997295934306197)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/006_18912_video.mp4
+('place_prob= ', 7, 18220, 0.74189423332750593)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/007_18220_video.mp4
+('place_prob= ', 8, 18948, 0.71770607254815666)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/008_18948_video.mp4
+('place_prob= ', 9, 18292, 0.61918599381128192)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/009_18292_video.mp4
+('place_prob= ', 10, 18328, 0.59154630994555502)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/010_18328_video.mp4
+('place_prob= ', 11, 18256, 0.58986333384487522)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/011_18256_video.mp4
+('place_prob= ', 12, 18364, 0.55755856944351079)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/012_18364_video.mp4
+('place_prob= ', 13, 17868, 0.55706819804010888)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/013_17868_video.mp4
+('place_prob= ', 14, 16403, 0.52682000791414518)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/014_16403_video.mp4
+('place_prob= ', 15, 7249, 0.45036095190250763)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/015_7249_video.mp4
+('place_prob= ', 16, 17928, 0.16803531142803074)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/016_17928_video.mp4
+('place_prob= ', 17, 29395, 1.7463466850525783e-06)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/017_29395_video.mp4
+('place_prob= ', 18, 21763, 1.2050092425161895e-06)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/018_21763_video.mp4
+('place_prob= ', 19, 29916, 3.7325411386171374e-08)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/019_29916_video.mp4
+('place_prob= ', 20, 10489, 5.762666804157848e-11)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/020_10489_video.mp4
+('place_prob= ', 21, 4987, 3.5198186476679548e-12)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/021_4987_video.mp4
+('place_prob= ', 22, 23845, 2.6838215856921288e-12)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/022_23845_video.mp4
+('place_prob= ', 23, 23881, 1.0613427363347012e-12)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/023_23881_video.mp4
+('place_prob= ', 24, 10525, 4.8553432888405905e-16)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/024_10525_video.mp4
+('place_prob= ', 25, 23405, 1.7367309545650495e-17)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/025_23405_video.mp4
+('place_prob= ', 26, 22772, 5.5533373187398311e-18)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/026_22772_video.mp4
+('place_prob= ', 27, 5255, 2.3265236556678908e-19)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/027_5255_video.mp4
+('place_prob= ', 28, 22598, 3.9159795687439555e-20)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/028_22598_video.mp4
+('place_prob= ', 29, 22634, 3.3458346352212389e-22)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/029_22634_video.mp4
+('place_prob= ', 30, 5055, 1.3204173341347955e-24)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/030_5055_video.mp4
+('place_prob= ', 31, 22562, 1.2072022055905825e-26)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/031_22562_video.mp4
+('place_prob= ', 32, 11180, 2.372174141671118e-29)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/032_11180_video.mp4
+('place_prob= ', 33, 3296, 1.3335507227329417e-30)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/033_3296_video.mp4
+('place_prob= ', 34, 5091, 1.1081273956260616e-30)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/034_5091_video.mp4
+('place_prob= ', 35, 11091, 2.0710913630257517e-32)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/035_11091_video.mp4
+('place_prob= ', 36, 5219, 5.1144695724009089e-34)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/036_5219_video.mp4
+('place_prob= ', 37, 11127, 8.081063258636356e-42)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/037_11127_video.mp4
+('place_prob= ', 38, 23441, 6.9125975669760082e-42)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/038_23441_video.mp4
+('place_prob= ', 39, 3332, 2.0725295013554272e-42)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/039_3332_video.mp4
+('place_prob= ', 40, 10758, 6.7310850068459986e-48)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/040_10758_video.mp4
+('place_prob= ', 41, 23632, 4.0272839228902661e-51)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/041_23632_video.mp4
+('place_prob= ', 42, 21133, 4.209204759914638e-55)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/042_21133_video.mp4
+('place_prob= ', 43, 21307, 8.3705598945289695e-57)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/043_21307_video.mp4
+('place_prob= ', 44, 21343, 1.7398322269312225e-61)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/044_21343_video.mp4
+('place_prob= ', 45, 10260, 7.329269419157148e-63)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/045_10260_video.mp4
+('place_prob= ', 46, 10079, 3.537878174077174e-65)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/046_10079_video.mp4
+('place_prob= ', 47, 10007, 6.5728047069437375e-82)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/047_10007_video.mp4
+('place_prob= ', 48, 10115, 7.0815780303758976e-83)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 4_Videos/048_10115_video.mp4

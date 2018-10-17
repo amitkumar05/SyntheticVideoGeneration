@@ -1,0 +1,39 @@
+007171.jpeg
+18
+[26815, 20017, 8126, 25375, 11741, 11667, 5943, 25411, 4157, 26305, 11704, 5989, 25462, 15987, 19604, 6320, 1340, 15728]
+('place_prob= ', 0, 8126, 0.80804674727324965)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/000_8126_video.mp4
+('place_prob= ', 1, 6320, 0.72278778042171543)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/001_6320_video.mp4
+('place_prob= ', 2, 5943, 0.69554582350568228)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/002_5943_video.mp4
+('place_prob= ', 3, 5989, 0.62077168846126396)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/003_5989_video.mp4
+('place_prob= ', 4, 20017, 3.950742357950585e-16)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/004_20017_video.mp4
+('place_prob= ', 5, 19604, 5.2069028169059728e-21)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/005_19604_video.mp4
+('place_prob= ', 6, 1340, 8.6331602283382282e-30)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/006_1340_video.mp4
+('place_prob= ', 7, 4157, 1.680513046333722e-36)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/007_4157_video.mp4
+('place_prob= ', 8, 25375, 9.2048987690648433e-50)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/008_25375_video.mp4
+('place_prob= ', 9, 11704, 3.0517147956060128e-50)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/009_11704_video.mp4
+('place_prob= ', 10, 11667, 4.2137051664277351e-53)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/010_11667_video.mp4
+('place_prob= ', 11, 11741, 5.2432708560488981e-59)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/011_11741_video.mp4
+('place_prob= ', 12, 25462, 3.918028203149678e-59)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/012_25462_video.mp4
+('place_prob= ', 13, 25411, 3.3472437991197053e-59)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/013_25411_video.mp4
+('place_prob= ', 14, 26305, 1.4889531239093022e-73)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/014_26305_video.mp4
+('place_prob= ', 15, 26815, 4.9728317151714446e-89)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/015_26815_video.mp4
+('place_prob= ', 16, 15987, 1.0903449776884571e-93)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/016_15987_video.mp4
+('place_prob= ', 17, 15728, 1.0422645772399691e-113)
+ffmpeg -framerate 24 -pattern_type glob -i 'tmp3/*.jpg' 2_Videos/017_15728_video.mp4
