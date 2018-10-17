@@ -1,0 +1,347 @@
+chandler
+train
+['../input/train/chandler/s01_ep13_260.jpg', '../input/train/chandler/s02_ep7_338.jpg', '../input/train/chandler/s02_ep7_344.jpg', '../input/train/chandler/s02_ep7_339.jpg', '../input/train/chandler/s01_ep24_290.jpg', '../input/train/chandler/s01_ep15_207.jpg', '../input/train/chandler/s02_ep7_484.jpg', '../input/train/chandler/s02_ep7_465.jpg', '../input/train/chandler/s01_ep13_94.jpg', '../input/train/chandler/s01_ep15_211.jpg', '../input/train/chandler/s01_ep13_274.jpg', '../input/train/chandler/s01_ep15_215.jpg', '../input/train/chandler/s01_ep15_222.jpg', '../input/train/chandler/s01_ep15_221.jpg', '../input/train/chandler/s01_ep15_173.jpg', '../input/train/chandler/s02_ep2_226.jpg', '../input/train/chandler/s01_ep13_280.jpg', '../input/train/chandler/s01_ep13_74.jpg', '../input/train/chandler/s01_ep13_171.jpg', '../input/train/chandler/s01_ep13_190.jpg', '../input/train/chandler/s01_ep24_276.jpg', '../input/train/chandler/s02_ep7_355.jpg', '../input/train/chandler/s01_ep13_78.jpg', '../input/train/chandler/s01_ep13_205.jpg', '../input/train/chandler/s01_ep15_199.jpg', '../input/train/chandler/s01_ep24_282.jpg', '../input/train/chandler/s01_ep15_189.jpg', '../input/train/chandler/s01_ep24_274.jpg', '../input/train/chandler/s01_ep15_214.jpg', '../input/train/chandler/s01_ep13_291.jpg', '../input/train/chandler/s01_ep13_272.jpg', '../input/train/chandler/s01_ep13_266.jpg', '../input/train/chandler/s01_ep13_199.jpg', '../input/train/chandler/s01_ep13_212.jpg', '../input/train/chandler/s02_ep7_367.jpg', '../input/train/chandler/s01_ep13_208.jpg', '../input/train/chandler/s02_ep7_341.jpg', '../input/train/chandler/s01_ep6_283.jpg', '../input/train/chandler/s01_ep15_187.jpg', '../input/train/chandler/s01_ep13_269.jpg', '../input/train/chandler/s02_ep7_463.jpg', '../input/train/chandler/s02_ep2_237.jpg', '../input/train/chandler/s01_ep15_183.jpg', '../input/train/chandler/s02_ep7_354.jpg', '../input/train/chandler/s01_ep13_283.jpg', '../input/train/chandler/s01_ep15_180.jpg', '../input/train/chandler/s01_ep13_72.jpg', '../input/train/chandler/s01_ep13_244.jpg', '../input/train/chandler/s02_ep7_353.jpg', '../input/train/chandler/s01_ep13_75.jpg', '../input/train/chandler/s01_ep13_351.jpg', '../input/train/chandler/s02_ep7_256.jpg', '../input/train/chandler/s01_ep6_288.jpg', '../input/train/chandler/s02_ep2_218.jpg', '../input/train/chandler/s01_ep15_210.jpg', '../input/train/chandler/s02_ep7_469.jpg', '../input/train/chandler/s01_ep15_169.jpg', '../input/train/chandler/s01_ep15_212.jpg', '../input/train/chandler/s01_ep15_168.jpg', '../input/train/chandler/s01_ep15_219.jpg', '../input/train/chandler/s01_ep13_173.jpg', '../input/train/chandler/s01_ep13_354.jpg', '../input/train/chandler/s02_ep7_486.jpg', '../input/train/chandler/s01_ep13_210.jpg', '../input/train/chandler/s01_ep15_196.jpg', '../input/train/chandler/s02_ep2_220.jpg', '../input/train/chandler/s01_ep6_296.jpg', '../input/train/chandler/s01_ep13_176.jpg', '../input/train/chandler/s02_ep2_225.jpg', '../input/train/chandler/s01_ep13_189.jpg', '../input/train/chandler/s01_ep13_85.jpg', '../input/train/chandler/s02_ep7_493.jpg', '../input/train/chandler/s01_ep13_183.jpg', '../input/train/chandler/s01_ep13_238.jpg', '../input/train/chandler/s02_ep2_234.jpg', '../input/train/chandler/s01_ep15_179.jpg', '../input/train/chandler/s01_ep24_289.jpg', '../input/train/chandler/s01_ep13_294.jpg', '../input/train/chandler/s02_ep2_233.jpg', '../input/train/chandler/s02_ep7_360.jpg', '../input/train/chandler/s01_ep13_91.jpg', '../input/train/chandler/s01_ep13_288.jpg', '../input/train/chandler/s01_ep15_201.jpg', '../input/train/chandler/s01_ep13_84.jpg', '../input/train/chandler/s02_ep2_229.jpg', '../input/train/chandler/s01_ep13_174.jpg', '../input/train/chandler/s01_ep13_285.jpg', '../input/train/chandler/s01_ep13_275.jpg', '../input/train/chandler/s01_ep13_182.jpg', '../input/train/chandler/s01_ep13_286.jpg', '../input/train/chandler/s01_ep13_197.jpg', '../input/train/chandler/s02_ep7_359.jpg', '../input/train/chandler/s01_ep15_175.jpg', '../input/train/chandler/s01_ep13_178.jpg', '../input/train/chandler/s02_ep7_471.jpg', '../input/train/chandler/s01_ep13_77.jpg', '../input/train/chandler/s01_ep13_220.jpg', '../input/train/chandler/s01_ep13_188.jpg', '../input/train/chandler/s02_ep2_230.jpg', '../input/train/chandler/s01_ep15_198.jpg', '../input/train/chandler/s02_ep7_257.jpg', '../input/train/chandler/s02_ep7_345.jpg', '../input/train/chandler/s01_ep13_204.jpg', '../input/train/chandler/s02_ep2_219.jpg', '../input/train/chandler/s01_ep24_288.jpg', '../input/train/chandler/s01_ep13_170.jpg', '../input/train/chandler/s02_ep7_346.jpg', '../input/train/chandler/s01_ep13_198.jpg', '../input/train/chandler/s01_ep13_277.jpg', '../input/train/chandler/s02_ep7_467.jpg', '../input/train/chandler/s01_ep15_191.jpg', '../input/train/chandler/s01_ep13_191.jpg', '../input/train/chandler/s01_ep15_170.jpg', '../input/train/chandler/s01_ep13_76.jpg', '../input/train/chandler/s01_ep24_283.jpg', '../input/train/chandler/s01_ep13_79.jpg', '../input/train/chandler/s02_ep7_350.jpg', '../input/train/chandler/s01_ep13_93.jpg', '../input/train/chandler/s02_ep7_479.jpg', '../input/train/chandler/s01_ep15_172.jpg', '../input/train/chandler/s02_ep2_238.jpg', '../input/train/chandler/s02_ep7_361.jpg', '../input/train/chandler/s01_ep6_307.jpg', '../input/train/chandler/s01_ep15_216.jpg', '../input/train/chandler/s02_ep2_222.jpg', '../input/train/chandler/s01_ep15_171.jpg', '../input/train/chandler/s02_ep2_228.jpg', '../input/train/chandler/s02_ep7_252.jpg', '../input/train/chandler/s01_ep13_281.jpg', '../input/train/chandler/s01_ep13_181.jpg', '../input/train/chandler/s01_ep6_282.jpg', '../input/train/chandler/s02_ep7_357.jpg', '../input/train/chandler/s01_ep13_83.jpg', '../input/train/chandler/s01_ep13_82.jpg', '../input/train/chandler/s01_ep13_179.jpg', '../input/train/chandler/s01_ep13_177.jpg', '../input/train/chandler/s02_ep2_224.jpg', '../input/train/chandler/s01_ep13_282.jpg', '../input/train/chandler/s02_ep7_490.jpg', '../input/train/chandler/s01_ep13_243.jpg', '../input/train/chandler/s01_ep13_195.jpg', '../input/train/chandler/s01_ep24_275.jpg', '../input/train/chandler/s02_ep7_248.jpg', '../input/train/chandler/s01_ep13_169.jpg', '../input/train/chandler/s01_ep13_259.jpg', '../input/train/chandler/s01_ep13_206.jpg', '../input/train/chandler/s01_ep13_292.jpg', '../input/train/chandler/s01_ep13_239.jpg', '../input/train/chandler/s02_ep7_250.jpg', '../input/train/chandler/s01_ep13_278.jpg', '../input/train/chandler/s01_ep13_187.jpg', '../input/train/chandler/s01_ep13_73.jpg', '../input/train/chandler/s01_ep13_264.jpg', '../input/train/chandler/s02_ep7_491.jpg', '../input/train/chandler/s01_ep13_293.jpg', '../input/train/chandler/s02_ep2_223.jpg', '../input/train/chandler/s01_ep15_223.jpg', '../input/train/chandler/s02_ep7_254.jpg', '../input/train/chandler/s01_ep13_270.jpg', '../input/train/chandler/s01_ep13_86.jpg', '../input/train/chandler/s02_ep7_255.jpg', '../input/train/chandler/s01_ep15_181.jpg', '../input/train/chandler/s01_ep6_289.jpg', '../input/train/chandler/s01_ep15_228.jpg', '../input/train/chandler/s01_ep24_285.jpg', '../input/train/chandler/s01_ep13_202.jpg', '../input/train/chandler/s02_ep7_476.jpg', '../input/train/chandler/s01_ep24_277.jpg', '../input/train/chandler/s01_ep15_204.jpg', '../input/train/chandler/s01_ep13_92.jpg', '../input/train/chandler/s01_ep15_193.jpg', '../input/train/chandler/s01_ep15_218.jpg', '../input/train/chandler/s02_ep7_247.jpg', '../input/train/chandler/s01_ep13_207.jpg', '../input/train/chandler/s02_ep7_487.jpg', '../input/train/chandler/s01_ep13_284.jpg', '../input/train/chandler/s01_ep15_178.jpg', '../input/train/chandler/s01_ep13_261.jpg', '../input/train/chandler/s02_ep2_221.jpg', '../input/train/chandler/s01_ep15_230.jpg', '../input/train/chandler/s01_ep13_186.jpg', '../input/train/chandler/s02_ep7_351.jpg', '../input/train/chandler/s01_ep13_295.jpg', '../input/train/chandler/s01_ep13_273.jpg', '../input/train/chandler/s01_ep24_279.jpg', '../input/train/chandler/s01_ep13_267.jpg', '../input/train/chandler/s01_ep24_281.jpg', '../input/train/chandler/s01_ep15_197.jpg', '../input/train/chandler/s01_ep24_286.jpg', '../input/train/chandler/s02_ep7_475.jpg', '../input/train/chandler/s01_ep15_200.jpg', '../input/train/chandler/s02_ep2_239.jpg', '../input/train/chandler/s01_ep15_195.jpg', '../input/train/chandler/s01_ep13_89.jpg', '../input/train/chandler/s01_ep13_287.jpg', '../input/train/chandler/s02_ep7_356.jpg', '../input/train/chandler/s01_ep13_196.jpg', '../input/train/chandler/s01_ep13_290.jpg', '../input/train/chandler/s01_ep13_279.jpg', '../input/train/chandler/s02_ep7_492.jpg', '../input/train/chandler/s01_ep13_90.jpg', '../input/train/chandler/s01_ep13_184.jpg', '../input/train/chandler/s02_ep7_336.jpg', '../input/train/chandler/s01_ep15_177.jpg', '../input/train/chandler/s01_ep13_353.jpg', '../input/train/chandler/s02_ep7_352.jpg', '../input/train/chandler/s02_ep7_340.jpg', '../input/train/chandler/s01_ep15_206.jpg', '../input/train/chandler/s01_ep13_180.jpg', '../input/train/chandler/s01_ep13_245.jpg', '../input/train/chandler/s01_ep15_227.jpg', '../input/train/chandler/s02_ep7_259.jpg', '../input/train/chandler/s02_ep7_464.jpg', '../input/train/chandler/s01_ep24_287.jpg', '../input/train/chandler/s02_ep7_474.jpg', '../input/train/chandler/s01_ep13_194.jpg', '../input/train/chandler/s02_ep7_472.jpg', '../input/train/chandler/s01_ep13_271.jpg', '../input/train/chandler/s01_ep15_231.jpg', '../input/train/chandler/s02_ep7_462.jpg', '../input/train/chandler/s01_ep15_209.jpg', '../input/train/chandler/s01_ep6_309.jpg', '../input/train/chandler/s01_ep15_190.jpg', '../input/train/chandler/s01_ep13_192.jpg', '../input/train/chandler/s01_ep15_185.jpg', '../input/train/chandler/s02_ep7_365.jpg', '../input/train/chandler/s01_ep15_188.jpg', '../input/train/chandler/s01_ep15_176.jpg', '../input/train/chandler/s02_ep7_473.jpg', '../input/train/chandler/s01_ep13_203.jpg', '../input/train/chandler/s01_ep13_265.jpg', '../input/train/chandler/s02_ep7_347.jpg', '../input/train/chandler/s02_ep7_363.jpg', '../input/train/chandler/s02_ep7_477.jpg', '../input/train/chandler/s02_ep7_481.jpg', '../input/train/chandler/s01_ep15_174.jpg', '../input/train/chandler/s01_ep13_172.jpg', '../input/train/chandler/s02_ep7_366.jpg', '../input/train/chandler/s02_ep7_369.jpg', '../input/train/chandler/s01_ep13_276.jpg', '../input/train/chandler/s02_ep7_478.jpg', '../input/train/chandler/s01_ep15_194.jpg', '../input/train/chandler/s01_ep13_225.jpg', '../input/train/chandler/s01_ep6_306.jpg', '../input/train/chandler/s01_ep13_81.jpg', '../input/train/chandler/s01_ep15_186.jpg', '../input/train/chandler/s02_ep7_470.jpg', '../input/train/chandler/s01_ep13_175.jpg', '../input/train/chandler/s02_ep7_362.jpg', '../input/train/chandler/s01_ep15_225.jpg', '../input/train/chandler/s02_ep7_342.jpg', '../input/train/chandler/s01_ep15_182.jpg', '../input/train/chandler/s01_ep13_80.jpg', '../input/train/chandler/s02_ep7_466.jpg', '../input/train/chandler/s01_ep15_202.jpg', '../input/train/chandler/s01_ep24_280.jpg', '../input/train/chandler/s01_ep24_278.jpg', '../input/train/chandler/s02_ep7_495.jpg', '../input/train/chandler/s01_ep13_96.jpg', '../input/train/chandler/s02_ep2_227.jpg', '../input/train/chandler/s01_ep13_201.jpg', '../input/train/chandler/s02_ep7_489.jpg', '../input/train/chandler/s01_ep24_284.jpg', '../input/train/chandler/s01_ep13_268.jpg', '../input/train/chandler/s01_ep13_223.jpg', '../input/train/chandler/s01_ep6_308.jpg', '../input/train/chandler/s01_ep13_247.jpg', '../input/train/chandler/s01_ep13_246.jpg', '../input/train/chandler/s01_ep13_193.jpg', '../input/train/chandler/s01_ep13_352.jpg', '../input/train/chandler/s01_ep6_281.jpg', '../input/train/chandler/s02_ep7_485.jpg', '../input/train/chandler/s01_ep24_273.jpg', '../input/train/chandler/s02_ep7_368.jpg', '../input/train/chandler/s02_ep7_496.jpg', '../input/train/chandler/s01_ep6_315.jpg', '../input/train/chandler/s01_ep15_229.jpg', '../input/train/chandler/s02_ep7_337.jpg', '../input/train/chandler/s01_ep6_294.jpg', '../input/train/chandler/s02_ep7_480.jpg', '../input/train/chandler/s01_ep13_217.jpg', '../input/train/chandler/s01_ep6_291.jpg', '../input/train/chandler/s01_ep15_208.jpg', '../input/train/chandler/s02_ep7_249.jpg', '../input/train/chandler/s01_ep15_205.jpg', '../input/train/chandler/s02_ep7_358.jpg', '../input/train/chandler/s01_ep15_184.jpg', '../input/train/chandler/s01_ep13_185.jpg', '../input/train/chandler/s02_ep7_488.jpg', '../input/train/chandler/s01_ep15_213.jpg', '../input/train/chandler/s02_ep7_468.jpg', '../input/train/chandler/s01_ep15_220.jpg', '../input/train/chandler/s02_ep7_364.jpg', '../input/train/chandler/s02_ep7_349.jpg', '../input/train/chandler/s01_ep6_292.jpg', '../input/train/chandler/s02_ep7_348.jpg', '../input/train/chandler/s01_ep13_289.jpg', '../input/train/chandler/s01_ep15_192.jpg', '../input/train/chandler/s01_ep15_224.jpg', '../input/train/chandler/s01_ep13_95.jpg']
+read mean image
+[[[ 44.39222336  44.61666489  45.3777771  ...,  40.36777878  40.75222397
+    41.13555527]
+  [ 44.65888977  44.8133316   45.14777756 ...,  40.39333344  40.5633316
+    41.1455574 ]
+  [ 44.95444489  45.3955574   45.2844429  ...,  40.96444321  40.84666824
+    40.92111206]
+  ..., 
+  [ 56.93333435  59.51889038  60.07555389 ...,  53.5577774   53.54777908
+    54.06111145]
+  [ 55.8433342   58.11999893  59.06999969 ...,  53.26555634  54.34444427
+    54.23888779]
+  [ 55.67555618  58.25222397  58.8488884  ...,  53.79333496  54.25999832
+    54.53333282]]
+
+ [[ 51.71444321  51.8488884   52.79555511 ...,  51.08777618  51.14888763
+    51.00888824]
+  [ 52.20444489  52.24222183  52.78777695 ...,  51.13888931  50.97222137
+    51.10222244]
+  [ 52.70888901  53.14888763  53.02555466 ...,  51.80444336  51.38444519
+    50.98777771]
+  ..., 
+  [ 62.25444412  64.64111328  65.16444397 ...,  61.53555679  61.51666641
+    62.15333176]
+  [ 61.04000092  63.24222183  64.07888794 ...,  61.22777939  62.44889069
+    62.5633316 ]
+  [ 60.75777817  63.25111008  63.89666748 ...,  61.59999847  62.14222336
+    62.62666702]]
+
+ [[ 69.01555634  69.58555603  70.42666626 ...,  70.1111145   70.26555634
+    70.19999695]
+  [ 69.48666382  69.80555725  70.3144455  ...,  70.23000336  70.19999695
+    70.42444611]
+  [ 70.13111115  70.73444366  70.69999695 ...,  70.93888855  70.62555695
+    70.28555298]
+  ..., 
+  [ 83.23000336  85.75333405  86.19444275 ...,  82.42333221  82.13111115
+    82.49222565]
+  [ 81.93888855  84.26777649  85.12666321 ...,  82.31999969  83.2611084
+    82.94333649]
+  [ 81.66222382  84.35333252  84.96444702 ...,  82.72555542  82.96111298
+    82.87555695]]]
+[]
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+started validation
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299

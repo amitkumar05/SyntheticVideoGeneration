@@ -1,0 +1,347 @@
+cafe
+train
+['../input/train/cafe/s01_ep20_28.jpg', '../input/train/cafe/s01_ep1313.jpg', '../input/train/cafe/google-image(0002).jpeg', '../input/train/cafe/output_ep200091.png', '../input/train/cafe/google-image(0101).png', '../input/train/cafe/s01_ep14_18.jpg', '../input/train/cafe/s01_ep20_26.jpg', '../input/train/cafe/s01_ep20_192.jpg', '../input/train/cafe/s01_ep12_testing_324.jpg', '../input/train/cafe/s01_ep22_45.jpg', '../input/train/cafe/s01_ep14_14.jpg', '../input/train/cafe/google-image(0183).jpeg', '../input/train/cafe/google-image(0028).jpeg', '../input/train/cafe/s01_ep4_2.jpg', '../input/train/cafe/google-image(0024).jpeg', '../input/train/cafe/poker_ep30.jpg', '../input/train/cafe/s01_ep14_4.jpg', '../input/train/cafe/s01_ep22_46.jpg', '../input/train/cafe/s01_ep12_testing_337.jpg', '../input/train/cafe/s01_ep4_7.jpg', '../input/train/cafe/s01_ep137.jpg', '../input/train/cafe/output_ep200098.png', '../input/train/cafe/s01_ep22_116.jpg', '../input/train/cafe/s01_ep12_testing_26.jpg', '../input/train/cafe/s01_ep4_29.jpg', '../input/train/cafe/output_ep200081.png', '../input/train/cafe/s01_ep14_11.jpg', '../input/train/cafe/google-image(0221).jpeg', '../input/train/cafe/s01_ep4_34.jpg', '../input/train/cafe/google-image(0203).jpeg', '../input/train/cafe/s01_ep12_testing_28.jpg', '../input/train/cafe/s01_ep22_23.jpg', '../input/train/cafe/poker_ep24.jpg', '../input/train/cafe/output_ep200095.png', '../input/train/cafe/s01_ep12_testing_364.jpg', '../input/train/cafe/s01_ep14_110.jpg', '../input/train/cafe/s01_ep4_27.jpg', '../input/train/cafe/s01_ep4_28.jpg', '../input/train/cafe/output_ep200087.png', '../input/train/cafe/s01_ep22_40.jpg', '../input/train/cafe/poker_ep17.jpg', '../input/train/cafe/s01_ep12_testing_362.jpg', '../input/train/cafe/s01_ep22_2.jpg', '../input/train/cafe/output_ep200089.png', '../input/train/cafe/s01_ep12_testing_25.jpg', '../input/train/cafe/s01_ep4_3.jpg', '../input/train/cafe/google-image(0021).png', '../input/train/cafe/s01_ep20_200.jpg', '../input/train/cafe/s01_ep12_testing_12.jpg', '../input/train/cafe/s01_ep12_testing_331.jpg', '../input/train/cafe/s01_ep12_testing_20.jpg', '../input/train/cafe/s01_ep20_51.jpg', '../input/train/cafe/s01_ep20_169.jpg', '../input/train/cafe/s01_ep4_39.jpg', '../input/train/cafe/s01_ep22_24.jpg', '../input/train/cafe/s01_ep12_testing_305.jpg', '../input/train/cafe/s01_ep14_15.jpg', '../input/train/cafe/google-image(0014).jpeg', '../input/train/cafe/poker_ep29.jpg', '../input/train/cafe/google-image(0055).jpeg', '../input/train/cafe/s01_ep20_55.jpg', '../input/train/cafe/output_ep200093.png', '../input/train/cafe/s01_ep22_118.jpg', '../input/train/cafe/s01_ep12_testing_307.jpg', '../input/train/cafe/s01_ep12_testing_22.jpg', '../input/train/cafe/s01_ep20_45.jpg', '../input/train/cafe/s01_ep20_38.jpg', '../input/train/cafe/s01_ep12_testing_367.jpg', '../input/train/cafe/s01_ep22_47.jpg', '../input/train/cafe/s01_ep12_testing_329.jpg', '../input/train/cafe/s01_ep20_44.jpg', '../input/train/cafe/s01_ep12_testing_354.jpg', '../input/train/cafe/s01_ep14_7.jpg', '../input/train/cafe/s01_ep1363.jpg', '../input/train/cafe/s01_ep135.jpg', '../input/train/cafe/s01_ep12_testing_304.jpg', '../input/train/cafe/s01_ep1314.jpg', '../input/train/cafe/s01_ep12_testing_19.jpg', '../input/train/cafe/s01_ep14_16.jpg', '../input/train/cafe/google-image(0147).jpeg', '../input/train/cafe/s01_ep22_44.jpg', '../input/train/cafe/s01_ep22_15.jpg', '../input/train/cafe/s01_ep22_43.jpg', '../input/train/cafe/google-image(0015).jpeg', '../input/train/cafe/s01_ep12_testing_361.jpg', '../input/train/cafe/google-image(0005).jpeg', '../input/train/cafe/s01_ep4_19.jpg', '../input/train/cafe/s01_ep22_1.jpg', '../input/train/cafe/google-image(0153).jpeg', '../input/train/cafe/s01_ep12_testing_23.jpg', '../input/train/cafe/s01_ep4_36.jpg', '../input/train/cafe/poker_ep25.jpg', '../input/train/cafe/s01_ep14_8.jpg', '../input/train/cafe/s01_ep12_testing_326.jpg', '../input/train/cafe/google-image(0070).jpeg', '../input/train/cafe/s01_ep20_41.jpg', '../input/train/cafe/google-image(0131).png', '../input/train/cafe/s01_ep4_6.jpg', '../input/train/cafe/s01_ep22_117.jpg', '../input/train/cafe/s01_ep20_52.jpg', '../input/train/cafe/s01_ep14_2.jpg', '../input/train/cafe/s01_ep20_30.jpg', '../input/train/cafe/s01_ep12_testing_309.jpg', '../input/train/cafe/google-image(0067).jpeg', '../input/train/cafe/google-image(0086).jpeg', '../input/train/cafe/s01_ep22_6.jpg', '../input/train/cafe/s01_ep4_37.jpg', '../input/train/cafe/s01_ep22_7.jpg', '../input/train/cafe/s01_ep4_15.jpg', '../input/train/cafe/google-image(0044).jpeg', '../input/train/cafe/s01_ep12_testing_31.jpg', '../input/train/cafe/google-image(0121).jpeg', '../input/train/cafe/s01_ep12_testing_16.jpg', '../input/train/cafe/s01_ep14_116.jpg', '../input/train/cafe/s01_ep14_112.jpg', '../input/train/cafe/google-image(0082).jpeg', '../input/train/cafe/s01_ep4_18.jpg', '../input/train/cafe/google-image(0049).jpeg', '../input/train/cafe/s01_ep4_12.jpg', '../input/train/cafe/google-image(0104).jpeg', '../input/train/cafe/poker_ep21.jpg', '../input/train/cafe/google-image(0083).jpeg', '../input/train/cafe/google-image(0076).jpeg', '../input/train/cafe/google-image(0056).jpeg', '../input/train/cafe/s01_ep4_24.jpg', '../input/train/cafe/s01_ep4_35.jpg', '../input/train/cafe/google-image(0033).jpeg', '../input/train/cafe/s01_ep12_testing_21.jpg', '../input/train/cafe/s01_ep12_testing_29.jpg', '../input/train/cafe/google-image(0004).jpeg', '../input/train/cafe/google-image(0132).jpeg', '../input/train/cafe/s01_ep12_testing_9.jpg', '../input/train/cafe/s01_ep12_testing_338.jpg', '../input/train/cafe/s01_ep22_55.jpg', '../input/train/cafe/s01_ep20_53.jpg', '../input/train/cafe/poker_ep28.jpg', '../input/train/cafe/poker_ep27.jpg', '../input/train/cafe/s01_ep22_18.jpg', '../input/train/cafe/s01_ep14_118.jpg', '../input/train/cafe/s01_ep20_171.jpg', '../input/train/cafe/s01_ep20_39.jpg', '../input/train/cafe/s01_ep4_41.jpg', '../input/train/cafe/s01_ep4_17.jpg', '../input/train/cafe/google-image(0069).jpeg', '../input/train/cafe/google-image(0107).jpeg', '../input/train/cafe/s01_ep20_35.jpg', '../input/train/cafe/output_ep200083.png', '../input/train/cafe/google-image(0041).jpeg', '../input/train/cafe/s01_ep12_testing_27.jpg', '../input/train/cafe/s01_ep12_testing_373.jpg', '../input/train/cafe/s01_ep12_testing_323.jpg', '../input/train/cafe/s01_ep4_33.jpg', '../input/train/cafe/s01_ep22_21.jpg', '../input/train/cafe/s01_ep12_testing_306.jpg', '../input/train/cafe/poker_ep18.jpg', '../input/train/cafe/s01_ep12_testing_315.jpg', '../input/train/cafe/s01_ep4_4.jpg', '../input/train/cafe/google-image(0079).jpeg', '../input/train/cafe/s01_ep12_testing_322.jpg', '../input/train/cafe/s01_ep1311.jpg', '../input/train/cafe/s01_ep1361.jpg', '../input/train/cafe/s01_ep20_168.jpg', '../input/train/cafe/s01_ep12_testing_303.jpg', '../input/train/cafe/s01_ep138.jpg', '../input/train/cafe/s01_ep14_19.jpg', '../input/train/cafe/s01_ep12_testing_302.jpg', '../input/train/cafe/output_ep200090.png', '../input/train/cafe/google-image(0007).jpeg', '../input/train/cafe/google-image(0065).jpeg', '../input/train/cafe/s01_ep4_1.jpg', '../input/train/cafe/s01_ep12_testing_376.jpg', '../input/train/cafe/google-image(0090).jpeg', '../input/train/cafe/s01_ep14_6.jpg', '../input/train/cafe/s01_ep14_3.jpg', '../input/train/cafe/google-image(0061).jpeg', '../input/train/cafe/poker_ep23.jpg', '../input/train/cafe/s01_ep12_testing_17.jpg', '../input/train/cafe/s01_ep12_testing_333.jpg', '../input/train/cafe/poker_ep16.jpg', '../input/train/cafe/s01_ep12_testing_310.jpg', '../input/train/cafe/s01_ep4_25.jpg', '../input/train/cafe/s01_ep4_20.jpg', '../input/train/cafe/s01_ep20_54.jpg', '../input/train/cafe/poker_ep26.jpg', '../input/train/cafe/google-image(0010).jpeg', '../input/train/cafe/s01_ep14_13.jpg', '../input/train/cafe/s01_ep20_50.jpg', '../input/train/cafe/s01_ep22_119.jpg', '../input/train/cafe/google-image(0098).jpeg', '../input/train/cafe/google-image(0224).jpeg', '../input/train/cafe/s01_ep12_testing_320.jpg', '../input/train/cafe/google-image(0022).jpeg', '../input/train/cafe/s01_ep12_testing_372.jpg', '../input/train/cafe/s01_ep14_1.jpg', '../input/train/cafe/s01_ep20_29.jpg', '../input/train/cafe/s01_ep1312.jpg', '../input/train/cafe/s01_ep4_31.jpg', '../input/train/cafe/google-image(0071).jpeg', '../input/train/cafe/s01_ep20_31.jpg', '../input/train/cafe/s01_ep22_22.jpg', '../input/train/cafe/s01_ep12_testing_18.jpg', '../input/train/cafe/s01_ep14_88.jpg', '../input/train/cafe/s01_ep22_13.jpg', '../input/train/cafe/google-image(0037).jpeg', '../input/train/cafe/s01_ep22_49.jpg', '../input/train/cafe/s01_ep20_33.jpg', '../input/train/cafe/google-image(0036).jpeg', '../input/train/cafe/google-image(0150).jpeg', '../input/train/cafe/s01_ep12_testing_347.jpg', '../input/train/cafe/s01_ep4_42.jpg', '../input/train/cafe/s01_ep12_testing_321.jpg', '../input/train/cafe/s01_ep12_testing_335.jpg', '../input/train/cafe/s01_ep12_testing_308.jpg', '../input/train/cafe/s01_ep12_testing_317.jpg', '../input/train/cafe/s01_ep12_testing_313.jpg', '../input/train/cafe/s01_ep12_testing_314.jpg', '../input/train/cafe/google-image(0003).jpeg', '../input/train/cafe/s01_ep12_testing_346.jpg', '../input/train/cafe/s01_ep22_17.jpg', '../input/train/cafe/s01_ep4_38.jpg', '../input/train/cafe/google-image(0080).jpeg', '../input/train/cafe/s01_ep12_testing_358.jpg', '../input/train/cafe/s01_ep12_testing_301.jpg', '../input/train/cafe/s01_ep20_201.jpg', '../input/train/cafe/s01_ep22_26.jpg', '../input/train/cafe/output_ep200092.png', '../input/train/cafe/s01_ep14_5.jpg', '../input/train/cafe/s01_ep12_testing_357.jpg', '../input/train/cafe/s01_ep22_121.jpg', '../input/train/cafe/google-image(0013).jpeg', '../input/train/cafe/s01_ep12_testing_339.jpg', '../input/train/cafe/google-image(0060).jpeg', '../input/train/cafe/s01_ep12_testing_319.jpg', '../input/train/cafe/output_ep200084.png', '../input/train/cafe/s01_ep20_34.jpg', '../input/train/cafe/s01_ep12_testing_330.jpg', '../input/train/cafe/google-image(0008).jpeg', '../input/train/cafe/s01_ep22_54.jpg', '../input/train/cafe/s01_ep14_117.jpg', '../input/train/cafe/s01_ep20_167.jpg', '../input/train/cafe/s01_ep12_testing_5.jpg', '../input/train/cafe/s01_ep20_37.jpg', '../input/train/cafe/poker_ep20.jpg', '../input/train/cafe/s01_ep14_17.jpg', '../input/train/cafe/google-image(0091).jpeg', '../input/train/cafe/s01_ep20_199.jpg', '../input/train/cafe/s01_ep12_testing_316.jpg', '../input/train/cafe/google-image(0016).jpeg', '../input/train/cafe/s01_ep20_32.jpg', '../input/train/cafe/google-image(0031).jpeg', '../input/train/cafe/google-image(0023).jpeg', '../input/train/cafe/s01_ep20_198.jpg', '../input/train/cafe/s01_ep22_20.jpg', '../input/train/cafe/s01_ep4_40.jpg', '../input/train/cafe/google-image(0001).jpeg', '../input/train/cafe/poker_ep19.jpg', '../input/train/cafe/s01_ep12_testing_375.jpg', '../input/train/cafe/s01_ep1360.jpg', '../input/train/cafe/s01_ep12_testing_325.jpg', '../input/train/cafe/google-image(0202).jpeg', '../input/train/cafe/s01_ep12_testing_35.jpg', '../input/train/cafe/google-image(0123).jpeg', '../input/train/cafe/google-image(0113).jpeg', '../input/train/cafe/google-image(0030).jpeg', '../input/train/cafe/google-image(0171).jpeg', '../input/train/cafe/s01_ep4_30.jpg', '../input/train/cafe/s01_ep139.jpg', '../input/train/cafe/google-image(0097).jpeg', '../input/train/cafe/s01_ep22_120.jpg', '../input/train/cafe/google-image(0125).jpeg', '../input/train/cafe/google-image(0087).jpeg', '../input/train/cafe/s01_ep4_5.jpg', '../input/train/cafe/s01_ep14_12.jpg', '../input/train/cafe/s01_ep22_3.jpg', '../input/train/cafe/s01_ep12_testing_8.jpg', '../input/train/cafe/s01_ep12_testing_15.jpg', '../input/train/cafe/s01_ep12_testing_327.jpg', '../input/train/cafe/s01_ep4_26.jpg', '../input/train/cafe/s01_ep12_testing_328.jpg', '../input/train/cafe/output_ep200099.png', '../input/train/cafe/google-image(0025).jpeg', '../input/train/cafe/output_ep200088.png', '../input/train/cafe/s01_ep12_testing_24.jpg', '../input/train/cafe/google-image(0160).jpeg', '../input/train/cafe/google-image(0207).jpeg', '../input/train/cafe/google-image(0026).jpeg', '../input/train/cafe/s01_ep20_27.jpg', '../input/train/cafe/google-image(0084).jpeg', '../input/train/cafe/s01_ep12_testing_353.jpg', '../input/train/cafe/s01_ep4_32.jpg', '../input/train/cafe/s01_ep14_111.jpg', '../input/train/cafe/s01_ep12_testing_365.jpg', '../input/train/cafe/google-image(0077).jpeg', '../input/train/cafe/s01_ep12_testing_4.jpg', '../input/train/cafe/s01_ep12_testing_30.jpg', '../input/train/cafe/google-image(0219).jpeg', '../input/train/cafe/s01_ep12_testing_355.jpg', '../input/train/cafe/s01_ep20_36.jpg', '../input/train/cafe/s01_ep12_testing_368.jpg', '../input/train/cafe/s01_ep12_testing_7.jpg']
+read mean image
+[[[ 44.39222336  44.61666489  45.3777771  ...,  40.36777878  40.75222397
+    41.13555527]
+  [ 44.65888977  44.8133316   45.14777756 ...,  40.39333344  40.5633316
+    41.1455574 ]
+  [ 44.95444489  45.3955574   45.2844429  ...,  40.96444321  40.84666824
+    40.92111206]
+  ..., 
+  [ 56.93333435  59.51889038  60.07555389 ...,  53.5577774   53.54777908
+    54.06111145]
+  [ 55.8433342   58.11999893  59.06999969 ...,  53.26555634  54.34444427
+    54.23888779]
+  [ 55.67555618  58.25222397  58.8488884  ...,  53.79333496  54.25999832
+    54.53333282]]
+
+ [[ 51.71444321  51.8488884   52.79555511 ...,  51.08777618  51.14888763
+    51.00888824]
+  [ 52.20444489  52.24222183  52.78777695 ...,  51.13888931  50.97222137
+    51.10222244]
+  [ 52.70888901  53.14888763  53.02555466 ...,  51.80444336  51.38444519
+    50.98777771]
+  ..., 
+  [ 62.25444412  64.64111328  65.16444397 ...,  61.53555679  61.51666641
+    62.15333176]
+  [ 61.04000092  63.24222183  64.07888794 ...,  61.22777939  62.44889069
+    62.5633316 ]
+  [ 60.75777817  63.25111008  63.89666748 ...,  61.59999847  62.14222336
+    62.62666702]]
+
+ [[ 69.01555634  69.58555603  70.42666626 ...,  70.1111145   70.26555634
+    70.19999695]
+  [ 69.48666382  69.80555725  70.3144455  ...,  70.23000336  70.19999695
+    70.42444611]
+  [ 70.13111115  70.73444366  70.69999695 ...,  70.93888855  70.62555695
+    70.28555298]
+  ..., 
+  [ 83.23000336  85.75333405  86.19444275 ...,  82.42333221  82.13111115
+    82.49222565]
+  [ 81.93888855  84.26777649  85.12666321 ...,  82.31999969  83.2611084
+    82.94333649]
+  [ 81.66222382  84.35333252  84.96444702 ...,  82.72555542  82.96111298
+    82.87555695]]]
+[]
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+started validation
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
